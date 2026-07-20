@@ -1,4 +1,4 @@
-# Hi, I'm Arezoo Fahimi 👋
+# Hi, I'm Arezoo Fahimi
 
 Software Engineer with professional experience in web application development.
 
